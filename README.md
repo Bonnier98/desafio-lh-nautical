@@ -42,7 +42,7 @@ schema.sql: (Opcional) Arquivo gerado dinamicamente para criação das tabelas n
 
 Clone o repositório:
 
-git clone https://github.com/SEU-USUARIO/desafio-lh-nautical.git
+git clone https://github.com/Bonnier98/desafio-lh-nautical.git
 
 
 Instale as dependências:
